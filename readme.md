@@ -11,16 +11,13 @@ cmake ..
 cmake --build .
 ```
 
-# Doku
-=> Autodocs generieren
-k
-
 # Sudoku Solver Algorithm
 The Algorithm used for solving the Sudoku riddles has a recursive nature, details can be found [here](https://en.wikipedia.org/wiki/Sudoku_solving_algorithms).
 
 # Tests
 ## Google Tests 
 Fixed solavble and not solvable Sukdoku riddles will be used. If the Sudoku is solvable, the algorithm should tell so and vice versa. This will be checked by the external Google Test library.
+Tests are put into a seperate executable, navigate to build/tests and rune the test executable.
 
 ## Using Valgrind to check for memory leaks
 Install this tool with:
