@@ -1,5 +1,5 @@
 # Sokuko Solver in C++ with CMake
-A solver for Sudoku riddles that offers a Graphical User Interface by using the Qt library. Developed on and made for Linux. The main purpose of this project was to get more familiar with CMake and utilizing/incorporating external libraries like QT and GoogleTest. It uses the C++ 20 Standard.
+A solver for Sudoku riddles that offers a Graphical User Interface by using the Qt library in the future. Developed on and made for Linux. The main purpose of this project was to get more familiar with CMake and utilizing/incorporating external libraries like QT and GoogleTest. It uses the C++ 20 Standard.
 BILD/Gif
 
 # Setup
